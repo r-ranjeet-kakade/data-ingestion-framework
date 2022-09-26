@@ -27,7 +27,6 @@ spec:
         - name: varlog
           emptyDir: {}
       restartPolicy: Always
----
 apiVersion: v1
 kind: Service
 metadata:
